@@ -15,14 +15,67 @@ h1 {
   font-size: 4em;
 }
 
+h3 {
+  margin: 0;
+  color: #a2a2a2;
+}
+
+h4 {
+  margin-top: 0;
+  color: #a2a2a2;
+}
+
+table {
+  text-align: left;
+}
+
+thead {
+  color: white;
+  background-color: #20a9e5;
+}
+
+td {
+  background-color: #b1e6f2;
+}
+
 #title {
   font-weight: bolder;
 }
 
-main span {
+#booleaner {
   color: #63b3d1;
 }
 
-#title-span {
-  color: #a2a2a2;
+#highlighted {
+  background-color: #fbff04;
+}
+
+.box-img-monitor {
+  width: 14%;
+  height: 250px;
+  background-image: url('../img/monitor.jpg');
+  background-repeat: no-repeat;
+}
+
+.box-img-monitor p {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: white;
+  text-align: left;
+  padding: 10px;
+}
+
+.box-img-graph {
+  width: 14%;
+  height: 250px;
+  background-image: url('../img/graph.jpg');
+  background-repeat: no-repeat;
+}
+
+.box-img-graph p {
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: white;
+  text-align: left;
+  padding: 10px;
 }
