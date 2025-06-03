@@ -34,7 +34,7 @@ thead {
   background-color: #20a9e5;
 }
 
-td {
+.blue-row {
   background-color: #b1e6f2;
 }
 
@@ -46,8 +46,12 @@ td {
   color: #63b3d1;
 }
 
-#highlighted {
+.highlighted {
   background-color: #fbff04;
+}
+
+.white-row {
+  background-color: white;
 }
 
 .box-img-monitor {
