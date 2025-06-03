@@ -1,0 +1,28 @@
+header {
+  background-image: url('../img/pattern.png');
+  background-color: #4ea1ff;
+  background-position: center;
+  background-repeat: repeat;
+}
+
+header img {
+  width: 300px;
+}
+
+h1 {
+  margin: 0;
+  font-weight: bolder;
+  font-size: 4em;
+}
+
+#title {
+  font-weight: bolder;
+}
+
+main span {
+  color: #63b3d1;
+}
+
+#title-span {
+  color: #a2a2a2;
+}
